@@ -1,288 +1,240 @@
 # hello-world   test
-<table border="1" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="vertical-align: top; border: 1px solid red;">
-      <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid #000; padding: 8px;">NLP No.</th>
-      <th style="border: 1px solid #000; padding: 8px;">NLP Topic</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-1</td><td style="border: 1px solid #000; padding: 8px;">Automatic-Speech-Recognition-using-CTC_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-2</td><td style="border: 1px solid #000; padding: 8px;">Speech-Recognition-in-Python-using-Google-Speech-API_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-3</td><td style="border: 1px solid #000; padding: 8px;">Speech-Emotion-Recognition-using-Transfer-Learning_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-4</td><td style="border: 1px solid #000; padding: 8px;">Music-Generation-Using-RNN_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-5</td><td style="border: 1px solid #000; padding: 8px;">Machine-Translation-with-Transformers_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-6</td><td style="border: 1px solid #000; padding: 8px;">Convert-Speech-to-text-and-text-to-Speech_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-7</td><td style="border: 1px solid #000; padding: 8px;">Convert-Text-to-Speech-in-Python_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-8</td><td style="border: 1px solid #000; padding: 8px;">Intent-Recognition-using-TensorFlow_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-9</td><td style="border: 1px solid #000; padding: 8px;">Topic-Modeling-Using-Latent-Dirichlet-Allocation-LDA-_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-10</td><td style="border: 1px solid #000; padding: 8px;">Image-Caption-Generation-using-the-Avengers-EndGames-Characters_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-11</td><td style="border: 1px solid #000; padding: 8px;">Image-Caption-Generator-using-Deep-Learning-on-Flickr8K-dataset_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-12</td><td style="border: 1px solid #000; padding: 8px;">Named-Entity-Recognition-Using-NLTK-and-Spacy_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-13</td><td style="border: 1px solid #000; padding: 8px;">Autocorrector-Feature-Using-NLP-In-Python_NLP</td></tr>
-          <tr><td style="border: 1px solid #000; padding: 8px;">NLP-14</td><td style="border: 1px solid #000; padding: 8px;">Next-Sentence-Prediction-using-BERT_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-15</td><td style="border: 1px solid #000; padding: 8px;">Sentence-Autocomplete-Using-TensorFlow-from-Scratch_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-16</td><td style="border: 1px solid #000; padding: 8px;">Sentence-Autocomplete-Using-Pytorch_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-17</td><td style="border: 1px solid #000; padding: 8px;">Next-Word-Prediction-with-Deep-Learning-in-NLP_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-18</td><td style="border: 1px solid #000; padding: 8px;">Text-Generation-using-Fnet_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-19</td><td style="border: 1px solid #000; padding: 8px;">Deploy-a-Chatbot-using-TensorFlow-in-Python_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-20</td><td style="border: 1px solid #000; padding: 8px;">Language-Detection-using-Python_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-21</td><td style="border: 1px solid #000; padding: 8px;">Time-Series-Forecasting-using-PyTorch_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-22</td><td style="border: 1px solid #000; padding: 8px;">Time-Series-Forecasting-using-Recurrent-Neural-Networks-RNN-in-TensorFlow_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-23</td><td style="border: 1px solid #000; padding: 8px;">Stock-Price-Prediction-Project-using-TensorFlow_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-24</td><td style="border: 1px solid #000; padding: 8px;">Emotion-Detection-using-Bidirectional-LSTM_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-25</td><td style="border: 1px solid #000; padding: 8px;">Audio-Data-Preparation-and-Augmentation-in-Tensorflow_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-26</td><td style="border: 1px solid #000; padding: 8px;">Resume-Parser-using-Python_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-27</td><td style="border: 1px solid #000; padding: 8px;">Plagiarism-Detection-Using-Python_NLP</td></tr>
-    <tr><td style="border: 1px solid #000; padding: 8px;">NLP-28</td><td style="border: 1px solid #000; padding: 8px;">NLP-Sentiment-Analysis-for-US-Election_NLP</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">NLP-29</td><td style="border: 1px solid #000; padding: 8px;">Sentiment-Classification-Using-BERT_NLP</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">NLP-30</td><td style="border: 1px solid #000; padding: 8px;">Sentiment-Analysis-with-a-Recurrent-Neural-Networks-RNN-_NLP</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">NLP-31</td><td style="border: 1px solid #000; padding: 8px;">Twitter-Sentiment-Analysis-using-Python_NLP</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">NLP-32</td><td style="border: 1px solid #000; padding: 8px;">Amazon-Product-Review-Sentiment-Analysis-using-RNN_NLP</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">NLP-33</td><td style="border: 1px solid #000; padding: 8px;">Amazon-Product-Reviews-Sentiment-Analysis-in-Python_NLP</td></tr>
-</table>
-    </td>
-    <td style="vertical-align: top; border: 1px solid blue;">
-      <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
-<thead>
-<tr>
-  <th style="border: 1px solid #000; padding: 8px;">ML No.</th>
-  <th style="border: 1px solid #000; padding: 8px;">ML Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-1</td><td style="border: 1px solid #000; padding: 8px;">Sequential-Model-With-Abalone-Dataset-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-2</td><td style="border: 1px solid #000; padding: 8px;">Human-Activity-Recognition-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-3</td><td style="border: 1px solid #000; padding: 8px;">Face-And-Hand-Landmarks-Detection-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-4</td><td style="border: 1px solid #000; padding: 8px;">Car-License-Plate-Detection-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-5</td><td style="border: 1px solid #000; padding: 8px;">License-Plate-Recognition-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-6</td><td style="border: 1px solid #000; padding: 8px;">Intrusion-Detection-System-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-7</td><td style="border: 1px solid #000; padding: 8px;">Restaurant-Review-Analysis-Using-NLP-And-SQLite-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-8</td><td style="border: 1px solid #000; padding: 8px;">Restaurant-Reviews-Analysis-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-9</td><td style="border: 1px solid #000; padding: 8px;">Autocorrect-Feature-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-10</td><td style="border: 1px solid #000; padding: 8px;">Sentiment-Analysis-Using-RNN-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-11</td><td style="border: 1px solid #000; padding: 8px;">Sentiment-Classification-Using-BERT-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-12</td><td style="border: 1px solid #000; padding: 8px;">BERT-Model-For-Sentiment-Analysis-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-13</td><td style="border: 1px solid #000; padding: 8px;">Hate-Speech-Detection-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-14</td><td style="border: 1px solid #000; padding: 8px;">Next-Sentence-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-15</td><td style="border: 1px solid #000; padding: 8px;">Voice-Assistant-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-16</td><td style="border: 1px solid #000; padding: 8px;">Speech-Recognition-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-17</td><td style="border: 1px solid #000; padding: 8px;">Music-Recommendation-System-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-18</td><td style="border: 1px solid #000; padding: 8px;">Movie-Recommendation-Based-On-Emotion-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-19</td><td style="border: 1px solid #000; padding: 8px;">Movie-Recommender-System-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-20</td><td style="border: 1px solid #000; padding: 8px;">Ted-Talks-Recommendation-System-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-21</td><td style="border: 1px solid #000; padding: 8px;">Image-Segmentation-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-22</td><td style="border: 1px solid #000; padding: 8px;">Covid-19-Detection-Using-Chest-X-Ray-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-23</td><td style="border: 1px solid #000; padding: 8px;">Pneumonia-Detection-Using-Deep-Learning-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-24</td><td style="border: 1px solid #000; padding: 8px;">Lung-Cancer-Detection-Using-Transfer-Learning-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-25</td><td style="border: 1px solid #000; padding: 8px;">Lung-Cancer-Detection-Using-CNN-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-26</td><td style="border: 1px solid #000; padding: 8px;">ResNet-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-27</td><td style="border: 1px solid #000; padding: 8px;">Traffic-Signs-Recognition-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-28</td><td style="border: 1px solid #000; padding: 8px;">Cat-And-Dog-Classification-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-29</td><td style="border: 1px solid #000; padding: 8px;">Flower-Recognition-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-30</td><td style="border: 1px solid #000; padding: 8px;">Dog-Breed-Classification-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-31</td><td style="border: 1px solid #000; padding: 8px;">FaceMask-Detection-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-32</td><td style="border: 1px solid #000; padding: 8px;">Image-Caption-Generator-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-33</td><td style="border: 1px solid #000; padding: 8px;">Multiclass-Image-Classification-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-34</td><td style="border: 1px solid #000; padding: 8px;">Fuel-Efficiency-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-35</td><td style="border: 1px solid #000; padding: 8px;">Fake-News-Detection-Model-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-36</td><td style="border: 1px solid #000; padding: 8px;">Fake-News-Detection-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-37</td><td style="border: 1px solid #000; padding: 8px;">Waiters-Tip-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-39</td><td style="border: 1px solid #000; padding: 8px;">Spaceship-Titanic-Project-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-40</td><td style="border: 1px solid #000; padding: 8px;">Rainfall-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-41</td><td style="border: 1px solid #000; padding: 8px;">Ola-Bike-Ride-Request-Forecast-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-42</td><td style="border: 1px solid #000; padding: 8px;">Vehicle-Count-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-43</td><td style="border: 1px solid #000; padding: 8px;">Calories-Burnt-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-44</td><td style="border: 1px solid #000; padding: 8px;">IPL-Score-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-45</td><td style="border: 1px solid #000; padding: 8px;">Wine-Quality-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-46</td><td style="border: 1px solid #000; padding: 8px;">Titanic-Survival-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-47</td><td style="border: 1px solid #000; padding: 8px;">Air-Quality-Prediction-Using-NN-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-48</td><td style="border: 1px solid #000; padding: 8px;">Air-Quality-Index-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-49</td><td style="border: 1px solid #000; padding: 8px;">Heart-Disease-Prediction-Using-ANN-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-50</td><td style="border: 1px solid #000; padding: 8px;">Skin-Cancer-Detection-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-51</td><td style="border: 1px solid #000; padding: 8px;">Medical-Insurance-Price-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-52</td><td style="border: 1px solid #000; padding: 8px;">Autism-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-53</td><td style="border: 1px solid #000; padding: 8px;">Cancer-Cell-Classification-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-54</td><td style="border: 1px solid #000; padding: 8px;">Breast-Cancer-Diagnosis-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-55</td><td style="border: 1px solid #000; padding: 8px;">Parkinsons-Disease-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-56</td><td style="border: 1px solid #000; padding: 8px;">Wine-Type-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-57</td><td style="border: 1px solid #000; padding: 8px;">Heart-Disease-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-58</td><td style="border: 1px solid #000; padding: 8px;">Disease-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-59</td><td style="border: 1px solid #000; padding: 8px;">Employee-Management-System-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-60</td><td style="border: 1px solid #000; padding: 8px;">Boston-Housing-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-61</td><td style="border: 1px solid #000; padding: 8px;">House-Price-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-62</td><td style="border: 1px solid #000; padding: 8px;">Loan-Eligibility-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-63</td><td style="border: 1px solid #000; padding: 8px;">Loan-Approval-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-64</td><td style="border: 1px solid #000; padding: 8px;">Click-Through-Rate-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-65</td><td style="border: 1px solid #000; padding: 8px;">Flipkart-Reviews-Sentiment-Analysis-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-66</td><td style="border: 1px solid #000; padding: 8px;">Box-Office-Revenue-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-67</td><td style="border: 1px solid #000; padding: 8px;">Used-Car-Price-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-68</td><td style="border: 1px solid #000; padding: 8px;">Customer-Segmentation-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-69</td><td style="border: 1px solid #000; padding: 8px;">Inventory-Demand-Forecasting-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-70</td><td style="border: 1px solid #000; padding: 8px;">Customer-Churn-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-71</td><td style="border: 1px solid #000; padding: 8px;">Sales-Forecast-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-72</td><td style="border: 1px solid #000; padding: 8px;">Share-Price-Forecasting-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-74</td><td style="border: 1px solid #000; padding: 8px;">Stock-Price-Direction-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-75</td><td style="border: 1px solid #000; padding: 8px;">Microsoft-Stock-Price-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-76</td><td style="border: 1px solid #000; padding: 8px;">Stock-Price-Prediction-Using-TensorFlow-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-77</td><td style="border: 1px solid #000; padding: 8px;">Stock-Price-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-78</td><td style="border: 1px solid #000; padding: 8px;">Online-Payment-Fraud-Detection-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-79</td><td style="border: 1px solid #000; padding: 8px;">Bitcoin-Price-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-80</td><td style="border: 1px solid #000; padding: 8px;">Zillow-Home-Value-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-81</td><td style="border: 1px solid #000; padding: 8px;">Dogecoin-Price-Prediction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-82</td><td style="border: 1px solid #000; padding: 8px;">Credit-Card-Fraud-Detection-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-83</td><td style="border: 1px solid #000; padding: 8px;">Facebook-Sentiment-Analysis-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-84</td><td style="border: 1px solid #000; padding: 8px;">Twitter-Sentiment-Analysis-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-85</td><td style="border: 1px solid #000; padding: 8px;">Image-Colorization-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-86</td><td style="border: 1px solid #000; padding: 8px;">CIFAR-10-Image-Classification-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-87</td><td style="border: 1px solid #000; padding: 8px;">Text-Detection-And-Extraction-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-88</td><td style="border: 1px solid #000; padding: 8px;">Face-Counting-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-89</td><td style="border: 1px solid #000; padding: 8px;">Object-Counting-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-90</td><td style="border: 1px solid #000; padding: 8px;">Cartooning-Image-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-91</td><td style="border: 1px solid #000; padding: 8px;">Handwritten-Digit-Recognition-Using-NN-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-92</td><td style="border: 1px solid #000; padding: 8px;">OCR-Handwritten-Digits-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-93</td><td style="border: 1px solid #000; padding: 8px;">Handwritten-Digit-Recognition-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-94</td><td style="border: 1px solid #000; padding: 8px;">Text-Document-Classification-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-95</td><td style="border: 1px solid #000; padding: 8px;">SMS-Spam-Detection-ML</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">ML-96</td><td style="border: 1px solid #000; padding: 8px;">Detecting-Spam-Emails-ML</td></tr>
-</tbody>
-</table>
-    </td>
-    <td>
-      <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
-<thead>
-<tr>
-  <th style="border: 1px solid #000; padding: 8px;">CV No.</th>
-  <th style="border: 1px solid #000; padding: 8px;">CV Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-1</td><td style="border: 1px solid #000; padding: 8px;">Human-Pose-Estimation-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-2</td><td style="border: 1px solid #000; padding: 8px;">Image-Classification-with-Convolutional-Neural-Networks-CNNs-Using-PyTorch-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-3</td><td style="border: 1px solid #000; padding: 8px;">Handwritten-Digit-Recognition-using-Neural-Network-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-4</td><td style="border: 1px solid #000; padding: 8px;">License-Plate-Recognition-with-Tesseract-OCR-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-5</td><td style="border: 1px solid #000; padding: 8px;">Detect-and-Recognize-Car-License-Plate-from-a-video-in-real-time-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-6</td><td style="border: 1px solid #000; padding: 8px;">Black-and-white-image-colorization-with-Deep-Learning-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-7</td><td style="border: 1px solid #000; padding: 8px;">Live-Webcam-Drawing-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-8</td><td style="border: 1px solid #000; padding: 8px;">Find-Co-ordinates-of-Contours-using-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-9</td><td style="border: 1px solid #000; padding: 8px;">Contour-Detection-with-Custom-Seeds-using-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-10</td><td style="border: 1px solid #000; padding: 8px;">Car-driving-using-hand-detection-in-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-11</td><td style="border: 1px solid #000; padding: 8px;">Brightness-Control-With-Hand-Detection-using-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-12</td><td style="border: 1px solid #000; padding: 8px;">Measure-Size-of-an-Object-Using-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-13</td><td style="border: 1px solid #000; padding: 8px;">Build-GUI-Application-Pencil-Sketch-from-Photo-in-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-14</td><td style="border: 1px solid #000; padding: 8px;">Drowsiness-Detection-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-15</td><td style="border: 1px solid #000; padding: 8px;">Age-Detection-Using-Deep-Learning-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-16</td><td style="border: 1px solid #000; padding: 8px;">Right-and-Left-Hand-Detection-Using-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-18</td><td style="border: 1px solid #000; padding: 8px;">Real-time-object-color-detection-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-19</td><td style="border: 1px solid #000; padding: 8px;">Gun-Detection-using-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-20</td><td style="border: 1px solid #000; padding: 8px;">Implement-Canny-Edge-Detector-in-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-21</td><td style="border: 1px solid #000; padding: 8px;">Real-Time-Edge-Detection-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-22</td><td style="border: 1px solid #000; padding: 8px;">Face-and-Hand-Landmarks-Detection-using-Python-Mediapipe-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-23</td><td style="border: 1px solid #000; padding: 8px;">Face-Detection-using-Python-and-with-a-webcam-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-24</td><td style="border: 1px solid #000; padding: 8px;">Detect-the-RGB-color-from-a-webcam-using-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-25</td><td style="border: 1px solid #000; padding: 8px;">Image-Classifier-using-Tensorflow-Object-Detection-API-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-26</td><td style="border: 1px solid #000; padding: 8px;">Facial-expression-detection-using-the-Deepface-module-in-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-27</td><td style="border: 1px solid #000; padding: 8px;">Image-Segmentation-with-U-Net-using-Tensorflow-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-28</td><td style="border: 1px solid #000; padding: 8px;">Vehicle-license-plate-recognition-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-29</td><td style="border: 1px solid #000; padding: 8px;">Traffic-Signs-Recognition-using-CNN-and-Keras-in-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-30</td><td style="border: 1px solid #000; padding: 8px;">Skin-Cancer-Detection-Using-TensorFlow-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-31</td><td style="border: 1px solid #000; padding: 8px;">Detecting-Covid-19-with-Chest-X-ray-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-32</td><td style="border: 1px solid #000; padding: 8px;">Pneumonia-Detection-Using-Deep-Learning-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-33</td><td style="border: 1px solid #000; padding: 8px;">Lung-Cancer-Detection-Using-Transfer-Learning-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-34</td><td style="border: 1px solid #000; padding: 8px;">Lung-Cancer-Detection-using-Convolutional-Neural-Network-CNN-Tensorflow-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-35</td><td style="border: 1px solid #000; padding: 8px;">Deep-Learning-for-Artistic-Style-Transfer-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-36</td><td style="border: 1px solid #000; padding: 8px;">Video-Analysis-with-Convolutional-LSTM-Networks-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-37</td><td style="border: 1px solid #000; padding: 8px;">Age-and-Gender-Detection-Using-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-38</td><td style="border: 1px solid #000; padding: 8px;">Face-detection-using-Cascade-Classifier-using-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-39</td><td style="border: 1px solid #000; padding: 8px;">Face-recognition-using-Artificial-Intelligence-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-40</td><td style="border: 1px solid #000; padding: 8px;">Face-recognition-using-GUI-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-41</td><td style="border: 1px solid #000; padding: 8px;">FaceMask-Detection-using-TensorFlow-in-Python-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-42</td><td style="border: 1px solid #000; padding: 8px;">Python-Super-resolution-with-deep-learning-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-43</td><td style="border: 1px solid #000; padding: 8px;">Real-Time-Road-Lane-Detection-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-44</td><td style="border: 1px solid #000; padding: 8px;">CIFAR-10-Image-Classification-in-TensorFlow-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-45</td><td style="border: 1px solid #000; padding: 8px;">Dog-Breed-Classification-Using-Transfer-Learning-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-46</td><td style="border: 1px solid #000; padding: 8px;">Flower-Recognition-Using-Convolutional-Neural-Network-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-47</td><td style="border: 1px solid #000; padding: 8px;">Emojify-using-Face-Recognition-with-Machine-Learning-CV</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">CV-48</td><td style="border: 1px solid #000; padding: 8px;">Cat-Dog-Classification-using-Convolutional-Neural-Network-in-Python-CV</td></tr>
-</tbody>
-</table>
-    </td>
-    <td>
-     <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
-<thead>
-<tr>
-  <th style="border: 1px solid #000; padding: 8px;">GAN No.</th>
-  <th style="border: 1px solid #000; padding: 8px;">GAN Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-1</td><td style="border: 1px solid #000; padding: 8px;">CartoonGAN</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-2</td><td style="border: 1px solid #000; padding: 8px;">Photo-Enhancement-GAN</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-3</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Dialogue-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-4</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Text-Summarization</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-5</td><td style="border: 1px solid #000; padding: 8px;">Poetry-Generation-with-GAN</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-6</td><td style="border: 1px solid #000; padding: 8px;">Text-Style-Transfer-GAN</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-7</td><td style="border: 1px solid #000; padding: 8px;">Text-to-Image-GAN</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-8</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-AI-generated-Memes</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-9</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Quiz-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-10</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Education-Content-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-11</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Human-Behavior-Modeling</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-12</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Robotics-Simulation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-13</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Smart-City-Simulation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-14</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Urban-Planning</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-15</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Earthquake-Prediction</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-16</td><td style="border: 1px solid #000; padding: 8px;">Face-Aging-GAN</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-17</td><td style="border: 1px solid #000; padding: 8px;">Face-Swap-GAN</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-18</td><td style="border: 1px solid #000; padding: 8px;">Fashion-Design-GAN</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-19</td><td style="border: 1px solid #000; padding: 8px;">Interior-Design-GAN</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-20</td><td style="border: 1px solid #000; padding: 8px;">Landscape-Generation-GAN</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-21</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Satellite-Image-Synthesis</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-22</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Medical-Image-Synthesis</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-23</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-X-ray-Enhancement</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-24</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-MRI-Reconstruction</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-25</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-CT-Scan-Denoising</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-26</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Retinal-Image-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-27</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Histopathology-Image-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-28</td><td style="border: 1px solid #000; padding: 8px;">Old-Photo-Colorizer-with-GANs</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-29</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Astronomical-Image-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-30</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Particle-Simulation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-31</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Fluid-Dynamics</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-32</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Weather-Forecasting</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-33</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Crop-Yield-Prediction</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-34</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Cyberattack-Simulation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-35</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Malware-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-37</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Intrusion-Detection</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-38</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Secure-Image-Encryption</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-39</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Privacy-preserving-Data-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-40</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-CAPTCHA-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-41</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Biometric-Spoofing-Detection</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-42</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Steganography</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-43</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Anomaly-Detection</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-44</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Product-Design</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-45</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Logo-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-46</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Marketing-Content-Creation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-47</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Advertisement-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-48</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Business-Report-Summarization</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-49</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Financial-Time-Series-Prediction</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-50</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Stock-Market-Simulation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-51</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Customer-Review-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-52</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-E-commerce-Image-Enhancement</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-53</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Virtual-Try-On</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-55</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Game-Level-Generation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-56</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Synthetic-Dataset-Creation</td></tr>
-<tr><td style="border: 1px solid #000; padding: 8px;">GAN-57</td><td style="border: 1px solid #000; padding: 8px;">GAN-for-Traffic-Simulation</td></tr>
-</tbody>
-</table>
-    </td>
-  </tr>
-</table>
 
-
-
-
+| No.| Topic                                                  | Discussions | Comment |
+|---------|--------------------------------------------------------|-------------|---------|
+| NLP-1   | Automatic-Speech-Recognition-using-CTC_NLP             | ...         | ...     |
+| NLP-2   | Speech-Recognition-in-Python-using-Google-Speech-API_NLP | ...         | ...     |
+| NLP-3   | Speech-Emotion-Recognition-using-Transfer-Learning_NLP | ...         | ...     |
+| NLP-4   | Music-Generation-Using-RNN_NLP                          | ...         | ...     |
+| NLP-2   | Machine-Translation-with-Transformers_NLP| ...         | ...     |
+| NLP-2   | Convert-Speech-to-text-and-text-to-Speech_NLP| ...         | ...     |
+| NLP-2   | Convert-Text-to-Speech-in-Python_NLP| ...         | ...     |
+| NLP-2   | Intent-Recognition-using-TensorFlow_NLP| ...         | ...     |
+| NLP-2   | Topic-Modeling-Using-Latent-Dirichlet-Allocation-LDA-_NLP| ...         | ...     |
+| NLP-2   | Image-Caption-Generation-using-the-Avengers-EndGames-Characters_NLP| ...         | ...     |
+| NLP-2   | Image-Caption-Generator-using-Deep-Learning-on-Flickr8K-dataset_NLP| ...         | ...     |
+| NLP-2   | Named-Entity-Recognition-Using-NLTK-and-Spacy_NLP| ...         | ...     |
+| NLP-2   | Autocorrector-Feature-Using-NLP-In-Python_NLP| ...         | ...     |
+| NLP-2   | Next-Sentence-Prediction-using-BERT_NLP| ...         | ...     |
+| NLP-2   | Sentence-Autocomplete-Using-TensorFlow-from-Scratch_NLP| ...         | ...     |
+| NLP-2   | Sentence-Autocomplete-Using-Pytorch_NLP| ...         | ...     |
+| NLP-2   | Next-Word-Prediction-with-Deep-Learning-in-NLP_NLP| ...         | ...     |
+| NLP-2   | Text-Generation-using-Fnet_NLP| ...         | ...     |
+| NLP-2   | Deploy-a-Chatbot-using-TensorFlow-in-Python_NLP| ...         | ...     |
+| NLP-2   | Language-Detection-using-Python_NLP| ...         | ...     |
+| NLP-2   | Time-Series-Forecasting-using-PyTorch_NLP| ...         | ...     |
+| NLP-2   | Time-Series-Forecasting-using-Recurrent-Neural-Networks-RNN-in-TensorFlow_NLP| ...         | ...     |
+| NLP-2   | Stock-Price-Prediction-Project-using-TensorFlow_NLP| ...         | ...     |
+| NLP-2   | Emotion-Detection-using-Bidirectional-LSTM_NLP| ...         | ...     |
+| NLP-2   | Audio-Data-Preparation-and-Augmentation-in-Tensorflow_NLP| ...         | ...     |
+| NLP-2   | Resume-Parser-using-Python_NLP| ...         | ...     |
+| NLP-2   | Plagiarism-Detection-Using-Python_NLP| ...         | ...     |
+| NLP-2   | NLP-Sentiment-Analysis-for-US-Election_NLP| ...         | ...     |
+| NLP-2   | Sentiment-Classification-Using-BERT_NLP| ...         | ...     |
+| NLP-2   | Sentiment-Analysis-with-a-Recurrent-Neural-Networks-RNN-_NLP| ...         | ...     |
+| NLP-2   | Twitter-Sentiment-Analysis-using-Python_NLP| ...         | ...     |
+| NLP-2   | Amazon-Product-Review-Sentiment-Analysis-using-RNN_NLP| ...         | ...     |
+| NLP-2   | Amazon-Product-Reviews-Sentiment-Analysis-in-Python_NLP| ...         | ...     |
+| -----   |------------------------------| ...         | ...     |
+| ML-1    |Sequential-Model-With-Abalone-Dataset-ML| ...         | ...     |
+| ML-1    |Human-Activity-Recognition-ML| ...         | ...     |
+| ML-1    |Face-And-Hand-Landmarks-Detection-ML| ...         | ...     |
+| ML-1    |Car-License-Plate-Detection-ML| ...         | ...     |
+| ML-1    |License-Plate-Recognition-ML| ...         | ...     |
+| ML-1    |Intrusion-Detection-System-ML| ...         | ...     |
+| ML-1    |Restaurant-Review-Analysis-Using-NLP-And-SQLite-ML| ...         | ...     |
+| ML-1    |Restaurant-Reviews-Analysis-ML| ...         | ...     |
+| ML-1    |Autocorrect-Feature-ML| ...         | ...     |
+| ML-1    |Sentiment-Analysis-Using-RNN-ML| ...         | ...     |
+| ML-1    |Sentiment-Classification-Using-BERT-ML| ...         | ...     |
+| ML-1    |BERT-Model-For-Sentiment-Analysis-ML| ...         | ...     |
+| ML-1    |Hate-Speech-Detection-ML| ...         | ...     |
+| ML-1    |Next-Sentence-Prediction-ML| ...         | ...     |
+| ML-1    |Voice-Assistant-ML| ...         | ...     |
+| ML-1    |Speech-Recognition-ML| ...         | ...     |
+| ML-1    |Music-Recommendation-System-ML| ...         | ...     |
+| ML-1    |Movie-Recommendation-Based-On-Emotion-ML| ...         | ...     |
+| ML-1    |Movie-Recommender-System-ML| ...         | ...     |
+| ML-1    |Ted-Talks-Recommendation-System-ML| ...         | ...     |
+| ML-1    |Image-Segmentation-ML| ...         | ...     |
+| ML-1    |Covid-19-Detection-Using-Chest-X-Ray-ML| ...         | ...     |
+| ML-1    |Pneumonia-Detection-Using-Deep-Learning-ML| ...         | ...     |
+| ML-1    |Lung-Cancer-Detection-Using-Transfer-Learning-ML| ...         | ...     |
+| ML-1    |Lung-Cancer-Detection-Using-CNN-ML| ...         | ...     |
+| ML-1    |ResNet-ML| ...         | ...     |
+| ML-1    |Traffic-Signs-Recognition-ML| ...         | ...     |
+| ML-1    |Cat-And-Dog-Classification-ML| ...         | ...     |
+| ML-1    |Flower-Recognition-ML| ...         | ...     |
+| ML-1    |Dog-Breed-Classification-ML| ...         | ...     |
+| ML-1    |FaceMask-Detection-ML| ...         | ...     |
+| ML-1    |Image-Caption-Generator-ML| ...         | ...     |
+| ML-1    |Multiclass-Image-Classification-ML| ...         | ...     |
+| ML-1    |Fuel-Efficiency-Prediction-ML| ...         | ...     |
+| ML-1    |Fake-News-Detection-Model-ML| ...         | ...     |
+| ML-1    |Fake-News-Detection-ML| ...         | ...     |
+| ML-1    |Waiters-Tip-Prediction-ML| ...         | ...     |
+| ML-1    |Spaceship-Titanic-Project-ML| ...         | ...     |
+| ML-1    |Rainfall-Prediction-ML| ...         | ...     |
+| ML-1    |Ola-Bike-Ride-Request-Forecast-ML| ...         | ...     |
+| ML-1    |Vehicle-Count-Prediction-ML| ...         | ...     |
+| ML-1    |Calories-Burnt-Prediction-ML| ...         | ...     |
+| ML-1    |IPL-Score-Prediction-ML| ...         | ...     |
+| ML-1    |Wine-Quality-Prediction-ML| ...         | ...     |
+| ML-1    |Titanic-Survival-Prediction-ML| ...         | ...     |
+| ML-1    |Air-Quality-Prediction-Using-NN-ML| ...         | ...     |
+| ML-1    |Air-Quality-Index-Prediction-ML| ...         | ...     |
+| ML-1    |Heart-Disease-Prediction-Using-ANN-ML| ...         | ...     |
+| ML-1    |Skin-Cancer-Detection-ML| ...         | ...     |
+| ML-1    |Medical-Insurance-Price-Prediction-ML| ...         | ...     |
+| ML-1    |Autism-Prediction-ML| ...         | ...     |
+| ML-1    |Cancer-Cell-Classification-ML| ...         | ...     |
+| ML-1    |Breast-Cancer-Diagnosis-ML| ...         | ...     |
+| ML-1    |Parkinsons-Disease-Prediction-ML| ...         | ...     |
+| ML-1    |Wine-Type-Prediction-ML| ...         | ...     |
+| ML-1    |Heart-Disease-Prediction-ML| ...         | ...     |
+| ML-1    |Disease-Prediction-ML| ...         | ...     |
+| ML-1    |Employee-Management-System-ML| ...         | ...     |
+| ML-1    |Boston-Housing-Prediction-ML| ...         | ...     |
+| ML-1    |House-Price-Prediction-ML| ...         | ...     |
+| ML-1    |Loan-Eligibility-Prediction-ML| ...         | ...     |
+| ML-1    |Loan-Approval-Prediction-ML| ...         | ...     |
+| ML-1    |Click-Through-Rate-Prediction-ML| ...         | ...     |
+| ML-1    |Flipkart-Reviews-Sentiment-Analysis-ML| ...         | ...     |
+| ML-1    |Box-Office-Revenue-Prediction-ML| ...         | ...     |
+| ML-1    |Used-Car-Price-Prediction-ML| ...         | ...     |
+| ML-1    |Customer-Segmentation-ML| ...         | ...     |
+| ML-1    |Inventory-Demand-Forecasting-ML| ...         | ...     |
+| ML-1    |Customer-Churn-Prediction-ML| ...         | ...     |
+| ML-1    |Sales-Forecast-Prediction-ML| ...         | ...     |
+| ML-1    |Share-Price-Forecasting-ML| ...         | ...     |
+| ML-1    |Stock-Price-Direction-Prediction-ML| ...         | ...     |
+| ML-1    |Microsoft-Stock-Price-Prediction-ML| ...         | ...     |
+| ML-1    |Stock-Price-Prediction-Using-TensorFlow-ML| ...         | ...     |
+| ML-1    |Stock-Price-Prediction-ML| ...         | ...     |
+| ML-1    |Online-Payment-Fraud-Detection-ML| ...         | ...     |
+| ML-1    |Bitcoin-Price-Prediction-ML| ...         | ...     |
+| ML-1    |Zillow-Home-Value-Prediction-ML| ...         | ...     |
+| ML-1    |Dogecoin-Price-Prediction-ML| ...         | ...     |
+| ML-1    |Credit-Card-Fraud-Detection-ML| ...         | ...     |
+| ML-1    |Facebook-Sentiment-Analysis-ML| ...         | ...     |
+| ML-1    |Twitter-Sentiment-Analysis-ML| ...         | ...     |
+| ML-1    |Image-Colorization-ML| ...         | ...     |
+| ML-1    |CIFAR-10-Image-Classification-ML| ...         | ...     |
+| ML-1    |Text-Detection-And-Extraction-ML| ...         | ...     |
+| ML-1    |Face-Counting-ML| ...         | ...     |
+| ML-1    |Object-Counting-ML| ...         | ...     |
+| ML-1    |Cartooning-Image-ML| ...         | ...     |
+| ML-1    |Handwritten-Digit-Recognition-Using-NN-ML| ...         | ...     |
+| ML-1    |OCR-Handwritten-Digits-ML| ...         | ...     |
+| ML-1    |Handwritten-Digit-Recognition-ML| ...         | ...     |
+| ML-1    |Text-Document-Classification-ML| ...         | ...     |
+| ML-1    |SMS-Spam-Detection-ML| ...         | ...     |
+| ML-1    |Detecting-Spam-Emails-ML| ...         | ...     |
+| ----    |------------------------------| ...         | ...     |
+| CV-1    |Human-Pose-Estimation-CV| ...         | ...     |
+| CV-1    |Image-Classification-with-Convolutional-Neural-Networks-CNNs-Using-PyTorch-CV| ...         | ...     |
+| CV-1    |Handwritten-Digit-Recognition-using-Neural-Network-CV| ...         | ...     |
+| CV-1    |License-Plate-Recognition-with-Tesseract-OCR-CV| ...         | ...     |
+| CV-1    |Detect-and-Recognize-Car-License-Plate-from-a-video-in-real-time-CV| ...         | ...     |
+| CV-1    |Black-and-white-image-colorization-with-Deep-Learning-CV| ...         | ...     |
+| CV-1    |Live-Webcam-Drawing-CV| ...         | ...     |
+| CV-1    |Find-Co-ordinates-of-Contours-using-Python-CV| ...         | ...     |
+| CV-1    |Contour-Detection-with-Custom-Seeds-using-Python-CV| ...         | ...     |
+| CV-1    |Car-driving-using-hand-detection-in-Python-CV| ...         | ...     |
+| CV-1    |Brightness-Control-With-Hand-Detection-using-Python-CV| ...         | ...     |
+| CV-1    |Measure-Size-of-an-Object-Using-Python-CV| ...         | ...     |
+| CV-1    |Build-GUI-Application-Pencil-Sketch-from-Photo-in-Python-CV| ...         | ...     |
+| CV-1    |Drowsiness-Detection-CV| ...         | ...     |
+| CV-1    |Age-Detection-Using-Deep-Learning-CV| ...         | ...     |
+| CV-1    |Right-and-Left-Hand-Detection-Using-Python-CV| ...         | ...     |
+| CV-1    |Real-time-object-color-detection-CV| ...         | ...     |
+| CV-1    |Gun-Detection-using-Python-CV| ...         | ...     |
+| CV-1    |Implement-Canny-Edge-Detector-in-Python-CV| ...         | ...     |
+| CV-1    |Real-Time-Edge-Detection-CV| ...         | ...     |
+| CV-1    |Face-and-Hand-Landmarks-Detection-using-Python-Mediapipe-CV| ...         | ...     |
+| CV-1    |Face-Detection-using-Python-and-with-a-webcam-CV| ...         | ...     |
+| CV-1    |Detect-the-RGB-color-from-a-webcam-using-Python-CV| ...         | ...     |
+| CV-1    |Image-Classifier-using-Tensorflow-Object-Detection-API-CV| ...         | ...     |
+| CV-1    |Facial-expression-detection-using-the-Deepface-module-in-Python-CV| ...         | ...     |
+| CV-1    |Image-Segmentation-with-U-Net-using-Tensorflow-CV| ...         | ...     |
+| CV-1    |Vehicle-license-plate-recognition-CV| ...         | ...     |
+| CV-1    |Traffic-Signs-Recognition-using-CNN-and-Keras-in-Python-CV| ...         | ...     |
+| CV-1    |Skin-Cancer-Detection-Using-TensorFlow-CV| ...         | ...     |
+| CV-1    |Detecting-Covid-19-with-Chest-X-ray-CV| ...         | ...     |
+| CV-1    |Pneumonia-Detection-Using-Deep-Learning-CV| ...         | ...     |
+| CV-1    |Lung-Cancer-Detection-Using-Transfer-Learning-CV| ...         | ...     |
+| CV-1    |Lung-Cancer-Detection-using-Convolutional-Neural-Network-CNN-Tensorflow-CV| ...         | ...     |
+| CV-1    |Deep-Learning-for-Artistic-Style-Transfer-CV| ...         | ...     |
+| CV-1    |Video-Analysis-with-Convolutional-LSTM-Networks-CV| ...         | ...     |
+| CV-1    |Age-and-Gender-Detection-Using-Python-CV| ...         | ...     |
+| CV-1    |Face-detection-using-Cascade-Classifier-using-Python-CV| ...         | ...     |
+| CV-1    |Face-recognition-using-Artificial-Intelligence-CV| ...         | ...     |
+| CV-1    |Face-recognition-using-GUI-CV| ...         | ...     |
+| CV-1    |FaceMask-Detection-using-TensorFlow-in-Python-CV| ...         | ...     |
+| CV-1    |Python-Super-resolution-with-deep-learning-CV| ...         | ...     |
+| CV-1    |Real-Time-Road-Lane-Detection-CV| ...         | ...     |
+| CV-1    |CIFAR-10-Image-Classification-in-TensorFlow-CV| ...         | ...     |
+| CV-1    |Dog-Breed-Classification-Using-Transfer-Learning-CV| ...         | ...     |
+| CV-1    |Flower-Recognition-Using-Convolutional-Neural-Network-CV| ...         | ...     |
+| CV-1    |Emojify-using-Face-Recognition-with-Machine-Learning-CV| ...         | ...     |
+| CV-1    |Cat-Dog-Classification-using-Convolutional-Neural-Network-in-Python-CV| ...         | ...     |
+| ----    |------------------------------| ...         | ...     |
+| GAN-1   |CartoonGAN| ...         | ...     |
+| GAN-1   |Photo-Enhancement-GAN| ...         | ...     |
+| GAN-1   |GAN-for-Dialogue-Generation| ...         | ...     |
+| GAN-1   |GAN-for-Text-Summarization| ...         | ...     |
+| GAN-1   |Poetry-Generation-with-GAN| ...         | ...     |
+| GAN-1   |Text-Style-Transfer-GAN| ...         | ...     |
+| GAN-1   |Text-to-Image-GAN| ...         | ...     |
+| GAN-1   |GAN-for-AI-generated-Memes| ...         | ...     |
+| GAN-1   |GAN-for-Quiz-Generation| ...         | ...     |
+| GAN-1   |GAN-for-Education-Content-Generation| ...         | ...     |
+| GAN-1   |GAN-for-Human-Behavior-Modeling| ...         | ...     |
+| GAN-1   |GAN-for-Robotics-Simulation| ...         | ...     |
+| GAN-1   |GAN-for-Smart-City-Simulation| ...         | ...     |
+| GAN-1   |GAN-for-Urban-Planning| ...         | ...     |
+| GAN-1   |GAN-for-Earthquake-Prediction| ...         | ...     |
+| GAN-1   |Face-Aging-GAN| ...         | ...     |
+| GAN-1   |Face-Swap-GAN| ...         | ...     |
+| GAN-1   |Fashion-Design-GAN| ...         | ...     |
+| GAN-1   |Interior-Design-GAN| ...         | ...     |
+| GAN-1   |Landscape-Generation-GAN
+| GAN-1   |GAN-for-Satellite-Image-Synthesis| ...         | ...     |
+| GAN-1   |GAN-for-Medical-Image-Synthesis| ...         | ...     |
+| GAN-1   |GAN-for-X-ray-Enhancement| ...         | ...     |
+| GAN-1   |GAN-for-MRI-Reconstruction| ...         | ...     |
+| GAN-1   |GAN-for-CT-Scan-Denoising| ...         | ...     |
+| GAN-1   |GAN-for-Retinal-Image-Generation| ...         | ...     |
+| GAN-1   |GAN-for-Histopathology-Image-Generation| ...         | ...     |
+| GAN-1   |Old-Photo-Colorizer-with-GANs| ...         | ...     |
+| GAN-1   |GAN-for-Astronomical-Image-Generation| ...         | ...     |
+| GAN-1   |GAN-for-Particle-Simulation| ...         | ...     |
+| GAN-1   |GAN-for-Fluid-Dynamics| ...         | ...     |
+| GAN-1   |GAN-for-Weather-Forecasting| ...         | ...     |
+| GAN-1   |GAN-for-Crop-Yield-Prediction| ...         | ...     |
+| GAN-1   |GAN-for-Cyberattack-Simulation| ...         | ...     |
+| GAN-1   |GAN-for-Malware-Generation| ...         | ...     |
+| GAN-1   |GAN-for-Intrusion-Detection| ...         | ...     |
+| GAN-1   |GAN-for-Secure-Image-Encryption| ...         | ...     |
+| GAN-1   |GAN-for-Privacy-preserving-Data-Generation| ...         | ...     |
+| GAN-1   |GAN-for-CAPTCHA-Generation| ...         | ...     |
+| GAN-1   |GAN-for-Biometric-Spoofing-Detection| ...         | ...     |
+| GAN-1   |GAN-for-Steganography| ...         | ...     |
+| GAN-1   |GAN-for-Anomaly-Detection| ...         | ...     |
+| GAN-1   |GAN-for-Product-Design| ...         | ...     |
+| GAN-1   |GAN-for-Logo-Generation| ...         | ...     |
+| GAN-1   |GAN-for-Marketing-Content-Creation| ...         | ...     |
+| GAN-1   |GAN-for-Advertisement-Generation| ...         | ...     |
+| GAN-1   |GAN-for-Business-Report-Summarization| ...         | ...     |
+| GAN-1   |GAN-for-Financial-Time-Series-Prediction| ...         | ...     |
+| GAN-1   |GAN-for-Stock-Market-Simulation| ...         | ...     |
+| GAN-1   |GAN-for-Customer-Review-Generation| ...         | ...     |
+| GAN-1   |GAN-for-E-commerce-Image-Enhancement| ...         | ...     |
+| GAN-1   |GAN-for-Virtual-Try-On| ...         | ...     |
+| GAN-1   |GAN-for-Game-Level-Generation| ...         | ...     |
+| GAN-1   |GAN-for-Synthetic-Dataset-Creation| ...         | ...     |
+| GAN-1   |GAN-for-Traffic-Simulation| ...         | ...     |
+| ----    |------------------------------| ...         | ...     |
 
 **Step 1: Create a new repository on GitHub**
 
